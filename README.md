@@ -25,9 +25,9 @@ The main example script is located in [`examples/webhook.js`](./examples/webhook
 - **Trigger an Event** ⚡
 - **Fetch User Profile** 📄
 
-Example api calls to fetch challenge related data is located in [`examples/challenges.js`](./examples/challenges.js)
-Example api calls to fetch currency (wallets/bundles) related data is located in [`examples/currencies.js`](./examples/currencies.js)
-Example api calls to fetch tierSystem related data is located in [`examples/tiers.js`](./examples/tiers.js)
+Example api calls to fetch challenge related data is located in [`examples/challenges.js`](./examples/challenges.js) \
+Example api calls to fetch currency (wallets/bundles) related data is located in [`examples/currencies.js`](./examples/currencies.js) \
+Example api calls to fetch tierSystem related data is located in [`examples/tiers.js`](./examples/tiers.js) \
 Example api calls to fetch statLeaderboard related data is located in [`examples/statLeaderboard.js`](./examples/statLeaderboard.js)
 
 ## Support
