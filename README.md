@@ -27,6 +27,7 @@ The main example script is located in [`examples/webhook.js`](./examples/webhook
 
 Example api calls to fetch challenge related data is located in [`examples/challenges.js`](./examples/challenges.js)
 Example api calls to fetch currency (wallets/bundles) related data is located in [`examples/currencies.js`](./examples/currencies.js)
+Example api calls to fetch tierSystem related data is located in [`examples/tiers.js`](./examples/tiers.js)
 
 ## Support
 For any issues or questions, reach out to StriveCloud support or open an issue in this repository.

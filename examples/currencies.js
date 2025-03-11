@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-// examples of wallet related api calls
+// examples of currency related api calls
 const DOMAIN = 'YOUR_STRIVECLOUD_DOMAIN';
 const userId = 'INSERT_USERID';
 const communityId = '602e33e7aac3ceaee6989ccf'; // default communityId
